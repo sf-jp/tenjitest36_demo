@@ -1,0 +1,21 @@
+﻿2015/09/27 21:23:34 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\Sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\opencv-3.0.0\opencv\build\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\opencv-3.0.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\opencv-3.0.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\opencv-3.0.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+     1>c:\users\sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple\main.cpp(47): warning C4101: 'i' : ローカル変数は 1 度も使われていません。
+     1>c:\users\sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple\main.cpp(185): warning C4309: '=' : 定数値が切り捨てられました。
+     1>c:\users\sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple\main.cpp(186): warning C4309: '=' : 定数値が切り捨てられました。
+     1>c:\users\sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple\main.cpp(187): warning C4309: '=' : 定数値が切り捨てられました。
+     1>c:\users\sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple\main.cpp(396): warning C4101: 'hist_img' : ローカル変数は 1 度も使われていません。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\Debug\tenjitest36_demo_tempmatch_movie_simple.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\opencv-3.0.0\opencv\build\x86\vc12\staticlib" IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_hal300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib ippicvmt.lib comctl32.lib vfw32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\Debug\tenjitest36_demo_tempmatch_movie_simple.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\Debug\tenjitest36_demo_tempmatch_movie_simple.lib" /MACHINE:X86 Debug\main.obj
+         tenjitest36_demo_tempmatch_movie_simple.vcxproj -> C:\Users\Sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\Debug\tenjitest36_demo_tempmatch_movie_simple.exe
+     1>プロジェクト "C:\Users\Sumie\sumie_tests\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple\tenjitest36_demo_tempmatch_movie_simple.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:10.93
